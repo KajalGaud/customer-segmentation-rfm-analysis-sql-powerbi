@@ -160,7 +160,7 @@ The combination of SQL-based RFM analysis and Power BI visualization provides a 
 ## Author
 
 **Kajal Gaud**
- Final Year B.Tech Computer Science Engineering | Aspiring Data Analyst
-LinkedIn: www.linkedin.com/in/kajal-gaud-30798331a
 
-Email: kgaud252@gmail.com
+Final Year B.Tech Computer Science Engineering | Aspiring Data Analyst
+ LinkedIn: www.linkedin.com/in/kajal-gaud-30798331a
+ Email: kgaud252@gmail.com
