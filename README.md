@@ -152,8 +152,8 @@ RFM_Dashboard.png
 
 ## Result & Conclusion
 The analysis shows that customer value is highly concentrated across RFM segments.
-Champions contribute the majority of revenue despite representing a smaller portion of the total customer base. At the same time, Potential, At-Risk, and Inactive segments represent a significant portion of customers and provide areas for further customer engagement and reactivation analysis.
-The combination of SQL-based RFM analysis and Power BI visualization provides a structured view of customer behavior and revenue contribution that can support customer retention, engagement, and segmentation decisions.
+Champions contribute the majority of revenue despite representing a smaller portion of the total customer base. At the same time, Potential, At-Risk, and Inactive segments represent a significant portion of the customer base and offer opportunities for targeted engagement and reactivation.
+The combination of SQL-based RFM analysis and Power BI visualization provides a structured view of customer behavior and revenue contribution that can support customer retention, engagement, and segmentation strategies.
 
 ---
 
@@ -162,5 +162,7 @@ The combination of SQL-based RFM analysis and Power BI visualization provides a 
 **Kajal Gaud**
 
 Final Year B.Tech Computer Science Engineering | Aspiring Data Analyst
- LinkedIn: www.linkedin.com/in/kajal-gaud-30798331a
- Email: kgaud252@gmail.com
+
+LinkedIn: www.linkedin.com/in/kajal-gaud-30798331a
+
+Email: kgaud252@gmail.com
