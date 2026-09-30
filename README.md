@@ -146,8 +146,7 @@ The Power BI dashboard provides an interactive view of customer segmentation and
 - RFM Profile by Segment
 - Top 5 Customers by Revenue
 
-![Customer Segmentation & RFM Analysis Dashboard](Dashboard/RFM_Dashboard.png)
-
+RFM_Dashboard.png
 ---
 
 ## Result & Conclusion
