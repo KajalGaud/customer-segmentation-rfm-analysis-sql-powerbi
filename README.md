@@ -88,7 +88,7 @@ The analysis evaluates:
 - Average RFM metrics by segment
 - Revenue contribution by segment
 - Customer contribution by segment
-- Top 10 customers by revenue
+- Top 5 customers by revenue
 
 ---
 
@@ -148,6 +148,7 @@ The Power BI dashboard provides an interactive view of customer segmentation and
 
 RFM_Dashboard.png
 ---
+![Customer Segmentation & RFM Analysis Dashboard](RFM_Dashboard.png)
 
 ## Result & Conclusion
 The analysis shows that customer value is highly concentrated across RFM segments.
@@ -159,6 +160,7 @@ The combination of SQL-based RFM analysis and Power BI visualization provides a 
 ## Author
 
 **Kajal Gaud**
-Final Year B.Tech Computer Science Engineering | Aspiring Data Analyst
+ Final Year B.Tech Computer Science Engineering | Aspiring Data Analyst
 LinkedIn: www.linkedin.com/in/kajal-gaud-30798331a
+
 Email: kgaud252@gmail.com
